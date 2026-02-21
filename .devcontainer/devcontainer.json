@@ -1,7 +1,10 @@
 {
   "name": "ga2-09c67d",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
   "features": {
-    "ghcr.io/devcontainers/features/python:1": {}
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.12"
+    }
   },
   "customizations": {
     "vscode": {
